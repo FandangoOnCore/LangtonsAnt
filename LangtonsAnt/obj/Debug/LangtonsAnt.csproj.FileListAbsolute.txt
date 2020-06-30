@@ -1,0 +1,10 @@
+D:\Documenti\Progetti\C#\LangtonsAnt\LangtonsAnt\bin\Debug\LangtonsAnt.exe.config
+D:\Documenti\Progetti\C#\LangtonsAnt\LangtonsAnt\bin\Debug\LangtonsAnt.exe
+D:\Documenti\Progetti\C#\LangtonsAnt\LangtonsAnt\bin\Debug\LangtonsAnt.pdb
+D:\Documenti\Progetti\C#\LangtonsAnt\LangtonsAnt\obj\Debug\LangtonsAnt.FrmMain.resources
+D:\Documenti\Progetti\C#\LangtonsAnt\LangtonsAnt\obj\Debug\LangtonsAnt.Properties.Resources.resources
+D:\Documenti\Progetti\C#\LangtonsAnt\LangtonsAnt\obj\Debug\LangtonsAnt.csproj.GenerateResource.cache
+D:\Documenti\Progetti\C#\LangtonsAnt\LangtonsAnt\obj\Debug\LangtonsAnt.csproj.CoreCompileInputs.cache
+D:\Documenti\Progetti\C#\LangtonsAnt\LangtonsAnt\obj\Debug\LangtonsAnt.exe
+D:\Documenti\Progetti\C#\LangtonsAnt\LangtonsAnt\obj\Debug\LangtonsAnt.pdb
+D:\Documenti\Progetti\C#\LangtonsAnt\LangtonsAnt\obj\Debug\LangtonsAnt.csprojAssemblyReference.cache
